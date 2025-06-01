@@ -21,3 +21,32 @@ Support multilingue : Pour les pizzaiolos internationaux.
 Prêt pour la pizza parfaite ?
 
 Téléchargez "Pizzaiolo" maintenant et commencez votre prochaine aventure pizza ! Devenez un maître de l'art de la pâte et impressionnez vos amis et votre famille avec vos créations.
+
+FAQ :
+
+Comment activer iCloud Drive ? Allez dans Réglages > [Votre nom] > iCloud et activez iCloud Drive.
+Que faire si "iCloud Drive n'est pas disponible" s'affiche ? Assurez-vous que iCloud Drive est activé et que vous êtes en ligne.
+Où puis-je trouver les recettes exportées ? Dans l'application Fichiers sous iCloud Drive/Pizza Teig/Pizzaiolo/recipes_backup.json.
+
+Politique de confidentialité de l'application Pizzaiolo
+Dernière mise à jour : 30 mai 2025
+
+L'application Pizzaiolo ("Application") respecte votre vie privée. Cette politique de confidentialité explique quelles données nous collectons, comment elles sont utilisées et comment vous pouvez exercer vos droits.
+
+Quelles données l'application collecte-t-elle ?
+
+Recettes : L'application utilise iCloud Drive pour stocker et sauvegarder vos recettes sous recipes_backup.json lorsque vous utilisez la fonction d'exportation/importation.
+Informations sur l'appareil : Pour des raisons techniques (par exemple, la compatibilité iCloud), des données sur l'appareil, telles que la version d'iOS ou le type d'appareil, peuvent être collectées. Ces données sont anonymes et non liées à votre identité.
+Aucune donnée personnelle : L'application ne collecte pas d'emails, de noms ou d'autres identifiants personnels, sauf si vous nous contactez via l'email de support.
+Comment les données sont-elles utilisées ?
+
+Les recettes sont stockées exclusivement dans votre compte iCloud Drive et ne sont exportées/importées que sur votre demande. Les informations sur l'appareil sont utilisées pour assurer le bon fonctionnement de l'application. Aucune donnée n'est partagée avec des tiers, sauf avec Apple pour le stockage iCloud.
+
+Droits de confidentialité
+
+Accès : Vous pouvez consulter vos recettes à tout moment dans l'application Fichiers sous "iCloud Drive/Pizza Teig/Pizzaiolo".
+Suppression : Supprimez recipes_backup.json dans iCloud Drive pour supprimer vos données.
+Contact : Pour toute question relative à la confidentialité, contactez ggrida@gmail.com.
+Support multilingue
+
+Cette politique de confidentialité est disponible en allemand, anglais, français, italien et espagnol, correspondant à la localisation de l'application.
